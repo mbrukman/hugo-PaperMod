@@ -25,6 +25,10 @@
     -webkit-line-clamp: 3
 }
 
+.entry-content a {
+    box-shadow: 0 1px 0 var(--primary);
+}
+
 .first-entry .entry-footer {
     font-size: 14px
 }
@@ -57,7 +61,6 @@
 
 .entry-content {
     margin: 8px 0;
-    color: var(--secondary);
     font-size: 14px;
     line-height: 1.6;
     overflow: hidden;
