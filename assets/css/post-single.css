@@ -141,7 +141,6 @@
 .post-content .highlight,
 .post-content pre {
     margin: auto calc(var(--gap) * -1) 32px;
-    background: var(--hljs-bg) !important;
     border-radius: var(--radius)
 }
 
@@ -196,7 +195,6 @@
     display: block;
     margin: auto 0;
     padding: 10px;
-    color: rgba(255, 255, 255, .8);
     background: 0 0;
     border-radius: 0;
     overflow-x: auto
