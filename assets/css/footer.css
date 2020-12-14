@@ -9,7 +9,8 @@
     margin: auto;
     padding: calc((var(--footer-height) - (var(--gap)) - 10px) / 2) var(--gap);
     text-align: center;
-    line-height: 24px
+    line-height: 24px;
+    border-top: 1px solid #cecece;
 }
 
 .footer span {
